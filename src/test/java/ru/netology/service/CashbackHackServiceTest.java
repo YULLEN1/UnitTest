@@ -1,4 +1,4 @@
-import ru.netology.CashbackHackService;
+import ru.netology.service.CashbackHackService;
 
 public class CashbackHackServiceTest {
     CashbackHackService service = new CashbackHackService();
